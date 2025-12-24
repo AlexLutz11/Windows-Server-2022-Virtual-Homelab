@@ -1,6 +1,6 @@
 # Windows-Server-2022-Virtual-Homelab
 
-This lab demonstrates the setup and configuration of a Windows Server 2022 virtual machine for homelab experimentation. The lab focuses on building a functional internal network using VirtualBox, with services including:
+This lab demonstrates the setup and configuration of a Windows Server 2025 virtual machine for homelab experimentation. The lab focuses on building a functional internal network using VirtualBox, with services including:
 
 Active Directory (AD DS)
 DNS Server
